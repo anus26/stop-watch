@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color :black;
+    color: white;
+}
+.container{
+    /* display: flex; */
+    text-align: center;
+    margin-left: 27%;
+    width: 450px;
+    border: 2px solid white;
+    padding: 22px;
+
+}
